@@ -43,7 +43,7 @@ print("Predicted CO@ for the corresponding weight and volume",predictedCO2)
 ```
 ## Output:
 
-![image](https://github.com/Preetha-Senthamilan/Multivariate-Linear-Regression/assets/119390282/4c7f4233-dd94-4561-9b49-637a17d52938)
+![image](https://github.com/Preetha-Senthamilan/Multivariate-Linear-Regression/assets/119390282/f021adce-33f3-405f-bb86-de1b92151ab7)
 
 
 ## Result
